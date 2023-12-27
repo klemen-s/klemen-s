@@ -25,5 +25,3 @@ I'm a versatile developer who enjoys working across different technologies, but 
 ![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
 ![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
-Let's learn and grow together! 🌟
-
