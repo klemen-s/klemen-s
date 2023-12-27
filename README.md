@@ -14,7 +14,7 @@ I'm a versatile developer who enjoys working across different technologies, but 
 ![Static Badge](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular)
 ![Static Badge](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=323330)
 ![Static Badge](https://img.shields.io/badge/React--Native-61DBFB?style=for-the-badge&logo=React&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Node-green?style=for-the-badge&logo=node.js&logoColor=white)
+![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
 ![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
 ![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
 ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
