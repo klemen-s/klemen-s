@@ -8,7 +8,7 @@ I'm a versatile developer who enjoys working across different technologies, but 
 - 🚀 Fascinated by startups and their innovative approach to solving real-world problems.
 - 📚 An avid reader of books (self-improvement, philosophy, business...) and tech-related articles, constantly seeking insights to improve and grow.
 
-## Technologies I (Have) Use(d)
+## Technologies I Use
 ![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black)
 ![Static Badge](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=white)
 ![Static Badge](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular)
