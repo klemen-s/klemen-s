@@ -1,7 +1,7 @@
 ### Hi there 👋 I'm Klemen 
 
 ## About Me
-I'm a versatile developer who enjoys working across different technologies. Currently I am studying at UL FRI (Faculty of Computer and Information Science). I thrive on continuous learning and exploring new technologies to enhance my skills and knowledge base. Always with a book in hand or browsing through tech articles, I'm fueled by a curiosity to understand the world of technology better.
+I'm a versatile developer who enjoys working across different technologies. Currently I am studying at UL FRI (Faculty of Computer and Information Science). I thrive on continuous learning and exploring new technologies to enhance my skills and knowledge base. I'm fueled by a curiosity to understand the world of technology better.
 
 ## Interests and Passions
 - 🧠 Passionate about AI and its potential to revolutionize industries.
