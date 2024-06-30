@@ -1,26 +1,21 @@
 ### Hi there 👋 I'm Klemen 
 
 ## About Me
-I'm a versatile developer who enjoys working across different technologies. Currently I am studying at UL FRI (Faculty of Computer and Information Science). I thrive on continuous learning and exploring new technologies to enhance my skills and knowledge base. I'm fueled by a curiosity to understand the world of technology better.
+I'm a DevOps engineer who enjoys working across different technologies. Currently I am studying at the Faculty of Computer and Information Science. I thrive on continuous learning and exploring new technologies to enhance my skills and knowledge base. I'm fueled by a curiosity to understand the world of technology better.
 
 ## Interests and Passions
-- 🧠 Passionate about AI and its potential to revolutionize industries.
+- 🔄 Embracing the DevOps philosophy of continuous learning, experimentation, and failure as a path to success
 - 🚀 Fascinated by startups and their innovative approach to solving real-world problems.
 - 📚 An avid reader of books (self-improvement, philosophy, business...) and tech-related articles, constantly seeking insights to improve and grow.
 
 ## Technologies I Use
-![Static Badge](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&logo=Typescript&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Angular-dd1b16?style=for-the-badge&logo=angular)
-![Static Badge](https://img.shields.io/badge/Javascript-f0db4f?style=for-the-badge&logo=Javascript&logoColor=323330)
-![Static Badge](https://img.shields.io/badge/React--Native-61DBFB?style=for-the-badge&logo=React&labelColor=black)
-![Node.js Badge](https://img.shields.io/badge/Node.js-393?logo=nodedotjs&logoColor=fff&style=for-the-badge)
-![Express Badge](https://img.shields.io/badge/Express-000?logo=express&logoColor=fff&style=for-the-badge)
-![GraphQL Badge](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=fff&style=for-the-badge)
-![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=fff&style=for-the-badge)
-![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
-![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
-![Figma Badge](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=fff&style=for-the-badge)
 
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=fff&style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge)
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
