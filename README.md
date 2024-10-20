@@ -8,4 +8,4 @@ Undergrad CS student trying to learn as much as possible about computers and pro
 - 🌱 Always looking for new challenges and opportunities to learn and grow
 
 ### Technologies
-<img src="https://skillicons.dev/icons?i=py,fastapi,java,postgres,mongodb,ts,angular,nextjs,nodejs,express,htmx,redis,redux" />
+<img src="https://skillicons.dev/icons?i=py,fastapi,java,postgres,mongodb,ts,react,redux,angular,nextjs,nodejs,express,htmx,redis" />
