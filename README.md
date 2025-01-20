@@ -4,8 +4,8 @@ Undergrad CS student trying to learn as much as possible about computers and pro
 
 ## About Me
 - 🎓 Currently pursuing a degree in Computer Science
-- 🚀 Quick learner of new technologies
+- 🔎 Curious about how things work on a lower level
 - 🌱 Always looking for new challenges and opportunities to learn and grow
 
-### Technologies
-<img src="https://skillicons.dev/icons?i=py,fastapi,java,spring,postgres,mongodb,ts,react,redux,angular,nextjs,nodejs,express,js,tailwind,redis,rust" />
+### Langs
+<img src="https://skillicons.dev/icons?i=rust,haskell,py,c,javascript" />
